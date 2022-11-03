@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">AppBarProject</string>
+    <string name="drawer_opend">Drawer Open</string>
+    <string name="drawer_closed">Drawer Closed</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Call"
+        android:icon="@drawable/ic_phone"
+        android:id="@+id/navi_menu_phone"/>
+    <item android:title="email"
+        android:icon="@drawable/ic_email"
+        android:id="@+id/navi_menu_email"/>
+    <item android:title="message"
+        android:icon="@drawable/ic_message"
+        android:id="@+id/navi_menu_message"/>
+    <item android:title="add address"
+        android:icon="@drawable/ic_person_add"
+        android:id="@+id/navi_menu_person_add"/>
+</menu>
